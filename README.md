@@ -1,6 +1,8 @@
 # game-tetris.github.io
 link Priview: https://asep38.github.io/game-tetris.github.io/
 
+<img src="https://user-images.githubusercontent.com/112145050/255481076-da8287a2-4abe-4cbd-9c3a-28c7a3c27493.png" />
+
 # deskripsi
 Tetris adalah permainan video klasik dan ikonik yang menantang, menghibur, dan mengasah kemampuan pemain dalam strategi dan refleks. Dalam permainan ini, 
 pemain harus mengatur dan menyusun berbagai bentuk geometris yang disebut tetrominoes, yang terdiri dari empat kotak yang berbeda, saat jatuh dari atas layar. 
